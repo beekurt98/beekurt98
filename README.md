@@ -30,7 +30,7 @@
 <p>
   <img src="https://img.shields.io/badge/Turkish-Native-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Korean-Conversational-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Korean-Professional-green?style=for-the-badge"/>
 </p>
 
 ## GitHub Stats
