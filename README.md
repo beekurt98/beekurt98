@@ -10,7 +10,7 @@
 - Reach me at: bkurt98@hotmail.com or beekurt98@gmail.com
 
 ## Tech Stack
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -34,20 +34,15 @@
 </p>
 
 ## GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=beekurt98&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="400"/> 
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beekurt98&theme=dark&hide_border=false" width="400"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beekurt98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400"/>
-</p>
-
-## GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=beekurt98&theme=radical&no-frame=true&no-bg=false&margin-w=4" width="800"/>
 </p>
 
 ## Activity Graph
