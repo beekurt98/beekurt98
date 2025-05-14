@@ -1,6 +1,6 @@
 # Hi there, I'm Berna Kurt
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/beekurt98)
+[![GitHub followers](https://img.shields.io/github/followers/beekurt98?style=social)](https://github.com/beekurt98)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/beekurt)
 
 ## About Me
