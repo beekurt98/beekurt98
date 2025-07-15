@@ -50,10 +50,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=beekurt98&theme=react-dark" width="800"/>
 </p>
 
-## Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/beekurt98/count.svg"/>
-</p>
-
 ---
 <p align="center">Feel free to reach out if you want to collaborate on a project or just chat!</p>
