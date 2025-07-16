@@ -6,7 +6,7 @@
 ## About Me
 - Web Developer passionate about creating efficient solutions
 - Currently learning Game Development in my free time
-- Working on a word game
+- Check out my most recent game: [Kelime Arısı](https://www.kelimearisi.com/) 🐝
 - Reach me at: bkurt98@hotmail.com or beekurt98@gmail.com
 
 ## Tech Stack
