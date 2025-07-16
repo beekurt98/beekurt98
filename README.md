@@ -6,7 +6,7 @@
 ## About Me
 - Web Developer passionate about creating efficient solutions
 - Currently learning Game Development in my free time
-- Check out my most recent game: [Kelime Arısı](https://www.kelimearisi.com/) 🐝
+- Check out my latest game: [Kelime Arısı](https://www.kelimearisi.com/) 🐝
 - Reach me at: bkurt98@hotmail.com or beekurt98@gmail.com
 
 ## Tech Stack
@@ -34,13 +34,6 @@
 </p>
 
 ## GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=beekurt98&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="400"/> 
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beekurt98&theme=dark&hide_border=false" width="400"/>
-</p>
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beekurt98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400"/>
 </p>
