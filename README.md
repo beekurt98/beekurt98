@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/beekurt)
 
 ## About Me
-- Web Developer passionate about creating efficient solutions
+- Web Dev
 - Currently learning Game Development with Godot in my free time
 - Check out my latest game: [Kelime Arısı](https://www.kelimearisi.com/) 🐝
 - Reach me at: bkurt98@hotmail.com or beekurt98@gmail.com
@@ -31,11 +31,6 @@
   <img src="https://img.shields.io/badge/Turkish-Native-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Korean-Professional-green?style=for-the-badge"/>
-</p>
-
-## GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beekurt98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400"/>
 </p>
 
 ## Activity Graph
