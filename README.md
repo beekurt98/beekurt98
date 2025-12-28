@@ -5,7 +5,7 @@
 
 ## About Me
 - Web Developer passionate about creating efficient solutions
-- Currently learning Game Development with Unity in my free time
+- Currently learning Game Development with Godot in my free time
 - Check out my latest game: [Kelime Arısı](https://www.kelimearisi.com/) 🐝
 - Reach me at: bkurt98@hotmail.com or beekurt98@gmail.com
 
