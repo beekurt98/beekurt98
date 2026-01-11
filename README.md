@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=beekurt98&theme=react-dark" width="800"/>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beekurt98&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beekurt98&size_weight=0.5&count_weight=0.5)](https://github.com/EthanJamesLew/github-readme-stats-academic)
 
 ---
 <p align="center">Feel free to reach out if you want to collaborate on a project or just chat!</p>
